@@ -1,5 +1,5 @@
 {
-  "projects": {
-    "default": "notion-to--calendar"
-  }
+	"projects": {
+		"default": "notion-to--calendar"
+	}
 }
